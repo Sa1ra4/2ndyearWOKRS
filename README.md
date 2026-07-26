@@ -1,9 +1,11 @@
 # 🛡️ Java_Fundamentals: 6-Program Activity Suite
 
+
 ![Java Version](https://img.shields.io/badge/Java-8%2B-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Status-Passing-success?style=for-the-badge)
 ![Package](https://img.shields.io/badge/Packages-ACTIVITY%20%7C%20animals-blue?style=for-the-badge)
 ![Programs](https://img.shields.io/badge/Total%20Modules-6%20Programs-orange?style=for-the-badge)
+
 
 *"Core execution pipeline established. 6 foundational Java modules loaded and verified."*
 
