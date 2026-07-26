@@ -1,4 +1,4 @@
-public class TotalCalculator {
+public class totalcalculator {
     public static void main (String[] args)
     {
         int x = 80;

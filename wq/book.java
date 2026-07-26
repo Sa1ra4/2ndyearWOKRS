@@ -1,9 +1,9 @@
-public class Book {
+public class book {
     String title;
     String author;
     int pages;
 
-    public Book(String t, String a, int p) {
+    public book(String t, String a, int p) {
         this.title = t;
         this.author = a;
         this.pages = p;
@@ -16,11 +16,11 @@ public class Book {
     }
     public static void main(String[] args)
     {
-        Book b1 = new Book ("1984","George Orwell", 382);
-        Book b2 = new Book ("The Habbit", "J.R.R Tolkein", 1310);
-        Book b3 = new Book ("Harry Potter and the sorcerer's stone", "J.k. Rowling",309 );
-        Book b4 = new Book ("The Alchemist", "Paulo Coelho",208);
-        Book b5 = new Book ("The Little Prince", "Antoine de Saint-Exupery",96);
+        book b1 = new book ("1984","George Orwell", 382);
+        book b2 = new book ("The Habbit", "J.R.R Tolkein", 1310);
+        book b3 = new book ("Harry Potter and the sorcerer's stone", "J.k. Rowling",309 );
+        book b4 = new book ("The Alchemist", "Paulo Coelho",208);
+        book b5 = new book ("The Little Prince", "Antoine de Saint-Exupery",96);
 
         b1.display();
         b2.display();

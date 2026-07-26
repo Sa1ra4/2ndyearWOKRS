@@ -1,6 +1,4 @@
-package wq;
-
-public class PersonalInformation {
+public class Personalinfo {
     public static void main(String[] args) 
     {
         String pet = "🐱 ";
@@ -13,7 +11,7 @@ public class PersonalInformation {
         
         
         System.out.println("°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°");
-        System.out.println(" I am a " + pet + " person");
+        System.out.println(" I am " + pet + " person");
         System.out.println("=======================================================");
         System.out.println(" Name: " + name);
         System.out.println(" Birthday: " + birthday);
@@ -22,7 +20,8 @@ public class PersonalInformation {
         System.out.println(" Motivation: " + motivation);
         System.out.println(" Support:" + support);
         System.out.println("=======================================================");
-    
-    }
+     
+}
 
+ 
 }

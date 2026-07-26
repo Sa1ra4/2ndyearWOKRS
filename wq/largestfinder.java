@@ -1,4 +1,4 @@
-public class LargestFinder {
+public class largestfinder {
     public static void main(String[] args) {
     int a = 45, b = 78, c = 23;
     int largest;
@@ -10,7 +10,6 @@ public class LargestFinder {
     } else {
         largest = c;
     }
-
     System.out.println("The largest number is: " + largest);
 
 }
