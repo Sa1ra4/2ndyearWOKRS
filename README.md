@@ -5,9 +5,7 @@ Welcome to my *Java Project Workspace* repository. This project contains a colle
 ---
 
 ## 📂 Project Directory
-This repository contains the following completed project:
-
-* **ANIMALS** — A software development exercise focusing on Object-Oriented Programming (OOP) concepts, class inheritance, and polymorphism.
+This repository contains the following completed project
 
 * **aug3_DSA_midterms_Big_O** — Performance analysis and benchmarking of time and space complexity ($O(1)$, $O(n)$, $O(n^2)$).
 
@@ -20,6 +18,8 @@ This repository contains the following completed project:
 * **july20_Activity_prelims** — Practical activities reinforcing array operations and algorithm implementation.
 
 * **july23_prelims_OOP** — Object-Oriented Programming basics including encapsulation, access modifiers, and constructors.
+
+* **july24_OOP_HelloWorld_Prelim** -A software development exercise focusing on Object-Oriented Programming (OOP) concepts, class inheritance, and polymorphism.
 
 * **midterms_OOP_DSA_august7** — Integrated midterm application synthesizing OOP principles with efficient Data Structures and Algorithms.
 ​
