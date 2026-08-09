@@ -5,7 +5,7 @@ Welcome to my *Java Project Workspace* repository. This project contains a colle
 ---
 
 ## 📂 Project Directory
-This repsitory contains the following completed project:
+This repository contains the following completed project:
 
 * *ANIMALS* — A software development exercise focusing on Object-Oriented Programming (OOP) concepts, class inheritance, and polymorphism.
 
