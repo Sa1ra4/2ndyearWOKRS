@@ -1,4 +1,4 @@
-package Activity;
+package july16_activity1_and_2_prelims;
 
 public class lrgfinder {public static void main(String[] args) {
     int a = 45, b = 78, c = 23;

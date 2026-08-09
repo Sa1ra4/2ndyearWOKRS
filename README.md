@@ -1,36 +1,53 @@
-# 🕺 Dance Category Analyser: Java Fundamentals Module
+# 📚 2nd Year IT Work 
 
-![Java Version](https://img.shields.io/badge/Java-8%2B-007396?style=for-the-badge&logo=java&logoColor=white)
-![Build Status](https://img.shields.io/badge/Status-Passing-success?style=for-the-badge)
-![Package](https://img.shields.io/badge/Package-DANCE--ANALYZER-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-*"Performance evaluation pipeline initialized. Multi-tier award classification and category-filtered scoring active."*
-
-This repository contains the full source code and documentation for the **Dance Category Analyser**, a Java application designed to evaluate, categorize, and rank dance competition routines. The module demonstrates standard I/O processing using `Scanner`, dynamic arrays, multi-level conditional branching, category aggregation, and string formatting.
+Welcome to my *Java Project Workspace* repository. This project contains a collection of Java coursework, laboratory activities, Object-Oriented Programming (OOP) implementations, Data Structures and Algorithms (DSA) exercises, and Human-Computer Interaction (HCI) projects organized by subject and date.
 
 ---
 
-## 📌 Objective & Requirements
+## 📂 Project Directory
+This repsitory contains the following completed project:
 
-The primary objective of this module is to automate the scoring and classification workflow for dance competitions, providing clear insights into individual performance scores as well as category-wide metrics (Solo vs. Group).
+JAVAPROJECT/
+├── 📁 ANIMALS/                            # Animal hierarchy and Object-Oriented Programming (OOP) concepts
+├── 📁 aug3_DSA_midterms_Big_O/            # Big-O time and space complexity analysis in DSA
+├── 📁 human_interaction_Personal_Info/    # Human-Computer Interaction (HCI) and user info UI/input modules
+├── 📁 july13_DSA_prelim_project/          # Prelim Data Structures & Algorithms major project
+├── 📁 july16_activity1_and_2_prelims/     # Prelim laboratory activities 1 & 2
+├── 📁 july20_Activity_prelims/            # Prelim coursework and practice exercises
+├── 📁 july23_prelims_OOP/                 # OOP fundamentals (Classes, Inheritance, Polymorphism)
+└── 📁 midterms_OOP_DSA_august7/           # Midterm comprehensive project combining OOP and DSA
 
-### 🎯 Technical Features & Checklist
-- [x] **Dynamic Input Processing:** Interactive terminal prompts using `java.util.Scanner`.
-- [x] **Category Filtering & Classification:** Categorizes entries as either **Solo** or **Group** routines.
-- [x] **Multi-Tier Award System:** Evaluates judge scores (0.0 – 100.0) and assigns formal award tiers:
-  - 🥇 **Platinum:** 90.0 – 100.0
-  - 🥈 **High Gold:** 80.0 – 89.9
-  - 🥉 **Gold:** 70.0 – 79.9
-  - 🎖️ **Silver:** Below 70.0
-- [x] **Category Analytics Engine:** Computes independent statistical averages for Solos and Groups while preventing division-by-zero errors.
-- [x] **Top Performer Spotlight:** Dynamically tracks and highlights the overall highest-scoring routine in the competition.
-- [x] **Formatted Terminal Output:** Clean display utilizing `System.out.printf` for aligned columnar reports.
+​## 🦁 ANIMALS/ ​ Object-Oriented Programming (OOP) Fundamentals 
+- Focuses on class inheritance, interfaces, method overriding, and polymorphism using an animal taxonomy hierarchy.
+​
+## ⏱️ aug3_DSA_midterms_Big_O/ * Time & Space Complexity Analysis *
+- Algorithmic benchmarking and implementations analyzing O(1), O(log n), O(n), O(n log n), and O(n²) performance characteristics.
+​
+## 👤 human_interaction_Personal_Info/ * Human-Computer Interaction (HCI) & Form Processing* -Interactive user interfaces and input validation modules for personal information handling.
+​
+## 📊 july13_DSA_prelim_project​/ * Prelim DSA Major Project* 
+- Core implementations of fundamental data structures (lists, stacks, queues, or trees) for data manipulation.
+​
+## 📝 july16_activity1_and_2_prelims/ * Prelim Laboratory Activities 1 & 2 * 
+- Foundational Java coding exercises on control structures, loops, and logic execution.
+​
+##📑 july20_Activity_prelims/ * Prelim Coursework * 
+- Practice problems focusing on array manipulation and method construction.
+​
+## 🧱 july23_prelims_OOP/ * Object-Oriented Programming Prelims *
+- Encapsulation, constructors, accessor methods, and class structure practice.
+​
+## 🎯 midterms_OOP_DSA_august7/ * Midterm Integrated Project * 
+-Comprehensive practical application combining OOP design principles with Data Structures and Algorithms.
+​
 
----
+## 🛠️ Tech Stack & Prerequisites
 
-## 🏗 System Architecture & Directory Structure
+* **​Language: Java (JDK 11+)
+* **​Environment: IntelliJ IDEA, Eclipse, VS Code, or NetBeans
+* **​Key Topics: Object-Oriented Programming, Data Structures & Algorithms, Big-O Complexity Analysis, HCI Concepts
 
-```text
-src/
-└── DanceCategoryAnalyser.java    # Main Driver Class (Input, Analysis, Reporting)
+## 👨‍💻 Author
+
+**Saira Jane A. Campo** 
+*Bachelor of Science in Information Technology*

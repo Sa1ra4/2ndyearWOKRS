@@ -1,3 +1,5 @@
+package july13_DSA_prelim_project;
+
 import java.util.Scanner;
 
 public class DanceCategory {

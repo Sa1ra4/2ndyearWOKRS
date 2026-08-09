@@ -1,4 +1,4 @@
-package Animals;
+package ANIMALS;
 
 public class cat {
     public void sayHello() {

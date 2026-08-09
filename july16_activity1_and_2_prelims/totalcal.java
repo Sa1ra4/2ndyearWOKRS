@@ -1,4 +1,4 @@
-package Activity;
+package july16_activity1_and_2_prelims;
 
 public class totalcal {public static void main (String[] args)
     {

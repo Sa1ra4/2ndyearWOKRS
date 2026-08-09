@@ -1,6 +1,6 @@
-package Activity;
+package july20_Activity_prelims;
 
-public class smllrmin {
+public class smallermin {
     public static void main(String[] args) {
         int a = 12;
         int b = 75;
